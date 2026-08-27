@@ -1,0 +1,158 @@
+{
+  "survey": {
+    "id": "github-portfolio-survey-2026-08-27",
+    "generated_at": "2026-08-27T12:56:00Z",
+    "timezone_note": "User local context Pacific; GitHub timestamps are UTC unless noted",
+    "visibility": "private",
+    "do_not_publish": true,
+    "surveyor": "Grok connected GitHub integration",
+    "authenticated_as": "brianreborn",
+    "accounts_included": ["brianreborn", "electrobrian"],
+    "destination_repo": {
+      "full_name": "brianreborn/github-portfolio-survey-2026-08-27",
+      "id": 1348494107,
+      "private": true,
+      "html_url": "https://github.com/brianreborn/github-portfolio-survey-2026-08-27"
+    },
+    "caveats": [
+      "Notifications API 403 for this integration",
+      "Gists for brianreborn: none",
+      "Commit search is default-branch only",
+      "electrobrian private repos not visible from this token",
+      "GitHub size field is approximate KiB, not exact bytes",
+      "Profile public_repos=14 excludes the two private repos visible to the token"
+    ]
+  },
+  "accounts": {
+    "brianreborn": {
+      "login": "brianreborn",
+      "id": 159288071,
+      "node_id": "U_kgDOCX6LBw",
+      "html_url": "https://github.com/brianreborn",
+      "name": "Brian Reborn",
+      "blog": "linktr.ee/brianreborn",
+      "email": "brianisbornagain@gmail.com",
+      "bio": "I am an old-school Unix hacker who loves God above all else.",
+      "twitter_username": "born_brian85001",
+      "public_repos": 14,
+      "repos_visible_to_token": 16,
+      "public_gists": 0,
+      "followers": 4,
+      "following": 1,
+      "created_at": "2024-02-07T15:53:35Z",
+      "updated_at": "2026-08-24T03:26:48Z",
+      "avatar_url": "https://avatars.githubusercontent.com/u/159288071?v=4",
+      "github_app_installation_id": 155408722
+    },
+    "electrobrian": {
+      "login": "electrobrian",
+      "id": 95530893,
+      "html_url": "https://github.com/electrobrian",
+      "public_repos_found": 2,
+      "token_permissions": "pull-only",
+      "private_enumeration": false
+    }
+  },
+  "commit_search": {
+    "query": "user:brianreborn committer-date:>=2026-08-01",
+    "total_count": 570,
+    "incomplete_results": false,
+    "note": "Default branch only"
+  },
+  "open_issues": [
+    {
+      "repo": "brianreborn/japanglify",
+      "number": 5,
+      "title": "chip problems",
+      "state": "open",
+      "labels": ["bug", "effort:xhigh"],
+      "html_url": "https://github.com/brianreborn/japanglify/issues/5",
+      "created_at": "2026-08-20T05:43:17Z",
+      "updated_at": "2026-08-22T19:03:15Z"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "number": 6,
+      "title": "chip feature: live adjustment and window moving",
+      "state": "open",
+      "labels": ["enhancement", "effort:xhigh"],
+      "html_url": "https://github.com/brianreborn/japanglify/issues/6",
+      "created_at": "2026-08-20T16:12:34Z",
+      "updated_at": "2026-08-21T13:29:32Z"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "number": 7,
+      "title": "Proper names receive wild glosses / emoji",
+      "state": "open",
+      "labels": ["bug", "effort:xhigh"],
+      "html_url": "https://github.com/brianreborn/japanglify/issues/7",
+      "created_at": "2026-08-21T09:04:45Z",
+      "updated_at": "2026-08-21T19:19:23Z"
+    }
+  ],
+  "releases": [
+    {
+      "repo": "brianreborn/green-agency",
+      "tag_name": "v0.1.0-alpha",
+      "name": "green-zkillz v0.1.0-alpha",
+      "prerelease": true,
+      "draft": false,
+      "published_at": "2026-08-27T06:58:03Z",
+      "html_url": "https://github.com/brianreborn/green-agency/releases/tag/v0.1.0-alpha",
+      "sha": "83866c9b3f866811b08e0a313ee4f7346655cc02"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "tag_name": "v1.0.0-beta2",
+      "name": "Japanglify 1.0.0 BETA 2",
+      "prerelease": true,
+      "published_at": "2026-08-19T11:36:46Z",
+      "html_url": "https://github.com/brianreborn/japanglify/releases/tag/v1.0.0-beta2"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "tag_name": "snapshot-2026-08-19",
+      "name": "Japanglify snapshot 2026-08-19 (UAT — not a release)",
+      "prerelease": true,
+      "published_at": "2026-08-19T11:23:10Z",
+      "html_url": "https://github.com/brianreborn/japanglify/releases/tag/snapshot-2026-08-19"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "tag_name": "v1.0.0-beta1",
+      "name": "Japanglify 1.0.0 BETA 1",
+      "prerelease": false,
+      "published_at": "2026-08-18T16:40:42Z",
+      "html_url": "https://github.com/brianreborn/japanglify/releases/tag/v1.0.0-beta1"
+    },
+    {
+      "repo": "brianreborn/japanglify",
+      "tag_name": "v1.0.0-beta",
+      "name": "Japanglify 1.0.0 BETA",
+      "prerelease": false,
+      "published_at": "2026-08-08T13:28:22Z",
+      "html_url": "https://github.com/brianreborn/japanglify/releases/tag/v1.0.0-beta"
+    }
+  ],
+  "repositories": [
+    {"id": 1347439511, "full_name": "brianreborn/green-agency", "private": false, "language": "Python", "default_branch": "main", "created_at": "2026-08-26T14:33:57Z", "pushed_at": "2026-08-27T06:58:03Z", "updated_at": "2026-08-27T06:55:24Z", "size": 79, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "BSD-3-Clause", "description": "Baseline /skills for modernizing agents.", "html_url": "https://github.com/brianreborn/green-agency", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1347904801, "full_name": "brianreborn/green-agency-session-2026-08-26", "private": true, "language": null, "default_branch": "main", "created_at": "2026-08-27T00:13:00Z", "pushed_at": "2026-08-27T00:13:48Z", "updated_at": "2026-08-27T00:13:51Z", "size": 3, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": null, "description": "Private review transcript of the 2026-08-26 green-agency / GDICT Grok session. Not a product dump.", "html_url": "https://github.com/brianreborn/green-agency-session-2026-08-26", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1346298300, "full_name": "brianreborn/papers", "private": false, "language": "TeX", "default_branch": "main", "created_at": "2026-08-25T15:21:30Z", "pushed_at": "2026-08-26T04:11:55Z", "updated_at": "2026-08-26T04:13:02Z", "size": 870, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "Other", "description": "Working papers and scholarly notes by Brian Fundakowski Feldman (with Grok / SuperGrok collaboration)", "html_url": "https://github.com/brianreborn/papers", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1343294028, "full_name": "brianreborn/pqfreebsd", "private": false, "language": "TypeScript", "default_branch": "main", "created_at": "2026-08-23T01:52:46Z", "pushed_at": "2026-08-24T00:59:17Z", "updated_at": "2026-08-24T00:59:21Z", "size": 1948, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "Other", "description": "pq all the things. Post-quantum trusted FreeBSD: TrustedBSD MAC, Capsicum, Integrity Evidence, repaired DAC. Not Kyber in the kernel.", "html_url": "https://github.com/brianreborn/pqfreebsd", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1343592582, "full_name": "brianreborn/pqfreebsd_kernel", "private": false, "language": "C", "default_branch": "main", "created_at": "2026-08-23T09:29:24Z", "pushed_at": "2026-08-23T11:16:50Z", "updated_at": "2026-08-23T11:17:38Z", "size": 110, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "Other", "description": "PQFreeBSD kernel modules (KLDs). Small, requisite, generic — not for third-party integration yet.", "html_url": "https://github.com/brianreborn/pqfreebsd_kernel", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1343077896, "full_name": "brianreborn/max-headroom-grok", "private": false, "language": null, "default_branch": "main", "created_at": "2026-08-22T18:41:55Z", "pushed_at": "2026-08-22T19:14:22Z", "updated_at": "2026-08-22T19:15:26Z", "size": 23, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "Other", "description": "Grok skill/plugin to install Headroom (headroom-ai) and wrap Grok. Light-ware license.", "html_url": "https://github.com/brianreborn/max-headroom-grok", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1343055886, "full_name": "brianreborn/freebsd-mac-grok", "private": false, "language": "Shell", "default_branch": "main", "created_at": "2026-08-22T18:11:28Z", "pushed_at": "2026-08-22T19:14:12Z", "updated_at": "2026-08-22T21:10:49Z", "size": 171, "stargazers_count": 1, "forks_count": 0, "open_issues_count": 0, "license": "Other", "topics": ["freebsd", "grok", "mac", "skills", "trustedbsd"], "description": "Grok skills and rc.d packages for FreeBSD MAC. Light-ware license.", "html_url": "https://github.com/brianreborn/freebsd-mac-grok", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1342377968, "full_name": "brianreborn/bible-reconstruction", "private": false, "language": "JavaScript", "default_branch": "main", "created_at": "2026-08-22T02:22:45Z", "pushed_at": "2026-08-22T02:26:01Z", "updated_at": "2026-08-22T02:26:29Z", "size": 26, "stargazers_count": 0, "forks_count": 1, "open_issues_count": 0, "license": null, "description": "Reconstruction Atlas: English-first workbench for biblical residue, public-domain Bibles, and Greek/Hebrew controls. Work in progress.", "html_url": "https://github.com/brianreborn/bible-reconstruction", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1324597966, "full_name": "brianreborn/japanglify", "private": false, "language": "Kotlin", "default_branch": "main", "created_at": "2026-08-06T00:47:52Z", "pushed_at": "2026-08-21T20:17:24Z", "updated_at": "2026-08-21T20:17:53Z", "size": 11823, "stargazers_count": 0, "forks_count": 1, "open_issues_count": 3, "license": "Other", "description": "Enhance Japanese text with Romaji and furigana.", "html_url": "https://github.com/brianreborn/japanglify", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1338570290, "full_name": "brianreborn/windows-2-android-wifi-supplicant-proxy", "private": false, "language": null, "default_branch": "main", "created_at": "2026-08-18T15:37:26Z", "pushed_at": "2026-08-18T15:37:27Z", "updated_at": "2026-08-18T15:44:15Z", "size": 1, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "BSD-3-Clause", "description": null, "html_url": "https://github.com/brianreborn/windows-2-android-wifi-supplicant-proxy", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1331917473, "full_name": "brianreborn/UMAssisted", "private": false, "language": "HTML", "default_branch": "master", "homepage": "https://brianreborn.github.io/UMAssisted/", "has_pages": true, "created_at": "2026-08-12T10:49:44Z", "pushed_at": "2026-08-18T05:10:39Z", "updated_at": "2026-08-18T05:10:56Z", "size": 338326, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "Other", "description": "Accessibility software to reduce physical-strain barriers in Umamusume Pretty Derby for players with limited mobility", "html_url": "https://github.com/brianreborn/UMAssisted", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1337248371, "full_name": "brianreborn/tweet2discord", "private": false, "language": null, "default_branch": "main", "created_at": "2026-08-17T14:10:28Z", "pushed_at": "2026-08-17T14:10:29Z", "updated_at": "2026-08-17T14:10:37Z", "size": 1, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "BSL-1.0", "description": "Firefox plugin for Twitter to Discord propagation.", "html_url": "https://github.com/brianreborn/tweet2discord", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1332712688, "full_name": "brianreborn/UMAssisted-private", "private": true, "language": "Kotlin", "default_branch": "master", "created_at": "2026-08-13T04:51:43Z", "pushed_at": "2026-08-18T03:52:58Z", "updated_at": "2026-08-15T00:29:14Z", "size": 52856, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": null, "description": "UMAssisted 1.0 alpha — closed-source implementation (REQ-P3)", "html_url": "https://github.com/brianreborn/UMAssisted-private", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 1326229193, "full_name": "brianreborn/job-apply-assistant", "private": false, "language": "JavaScript", "default_branch": "main", "created_at": "2026-08-07T04:58:48Z", "pushed_at": "2026-08-07T05:01:04Z", "updated_at": "2026-08-07T05:02:26Z", "size": 117, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "BSD-3-Clause", "description": "Firefox plugin to assist in filling out job applications", "html_url": "https://github.com/brianreborn/job-apply-assistant", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 754208938, "full_name": "brianreborn/twitter-forensics", "private": false, "language": "Shell", "default_branch": "main", "created_at": "2024-02-07T16:01:00Z", "pushed_at": "2024-04-01T19:23:43Z", "updated_at": "2024-07-05T14:04:44Z", "size": 27, "stargazers_count": 1, "forks_count": 0, "open_issues_count": 0, "license": "BSD-2-Clause", "description": "Forensic analysis tools for Twitter data/metadata.", "html_url": "https://github.com/brianreborn/twitter-forensics", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 757563433, "full_name": "brianreborn/twitter-archive-tools", "private": false, "language": "Ruby", "default_branch": "main", "created_at": "2024-02-14T18:45:31Z", "pushed_at": "2024-02-29T20:26:21Z", "updated_at": "2024-02-14T21:00:14Z", "size": 5, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": null, "description": "Various and sundry utilities for operating on one or many Twitter archives", "html_url": "https://github.com/brianreborn/twitter-archive-tools", "permissions": {"admin": true, "push": true, "pull": true}},
+    {"id": 754433801, "full_name": "electrobrian/jargon-juggler", "private": false, "language": "Ruby", "default_branch": "main", "created_at": "2024-02-08T03:17:58Z", "pushed_at": "2024-02-08T03:27:02Z", "updated_at": "2024-03-10T01:51:49Z", "size": 791, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": "BSD-3-Clause", "description": null, "html_url": "https://github.com/electrobrian/jargon-juggler", "permissions": {"admin": false, "push": false, "pull": true}},
+    {"id": 434895212, "full_name": "electrobrian/electrobrian", "private": false, "language": null, "default_branch": "main", "created_at": "2021-12-04T12:28:51Z", "pushed_at": "2021-12-04T12:28:52Z", "updated_at": "2021-12-04T12:28:51Z", "size": 0, "stargazers_count": 0, "forks_count": 0, "open_issues_count": 0, "license": null, "topics": ["config", "github-config"], "description": "Config files for my GitHub profile.", "html_url": "https://github.com/electrobrian/electrobrian", "permissions": {"admin": false, "push": false, "pull": true}}
+  ]
+}
